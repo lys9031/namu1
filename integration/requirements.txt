@@ -147,3 +147,4 @@ Werkzeug==2.2.2
 widgetsnbextension==3.6.1
 yacs==0.1.8
 zipp==3.8.1
+python -m pip install --upgrade pip
